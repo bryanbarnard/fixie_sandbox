@@ -1,0 +1,12 @@
+handle: sandbox-agent
+name: ServiceNow Earnings Agent
+description: |
+  An agent that has info about recent ServiceNow earnings transcripts.
+  
+  Example queries:
+  - Who is Bill McDermott?
+  - What was ServiceNow's revenue in Q1 2023?
+  - Who is Darren Yip?
+  tags: fewshot
+more_info_url: https://github.com/fixie-ai/fixie-examples
+entry_point: main:agent
