@@ -1,12 +1,11 @@
 handle: sandbox-agent
-name: ServiceNow Earnings Agent
+name: NiteRider Support Agent
 description: |
-  An agent that has info about recent ServiceNow earnings transcripts.
+  An agent that has info about NiteRider Support.
   
   Example queries:
-  - Who is Bill McDermott?
-  - What was ServiceNow's revenue in Q1 2023?
-  - Who is Darren Yip?
+  - Why is the red light flashing? 
+  - How do I remove the light from the handlebar mount? 
   tags: fewshot
 more_info_url: https://github.com/fixie-ai/fixie-examples
 entry_point: main:agent
